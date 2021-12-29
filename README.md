@@ -6,6 +6,7 @@ This program uses I/O to allow business owners to digitize restaurant menus and 
 ## Features
 -  Unique *Option Class* gives restaurant owners unlimited possibilities 
 with their online menu
+    
     &emsp;**Examples of Options:**
     - Would you like fries with your burger?
     - How would you like your eggs cooked?
